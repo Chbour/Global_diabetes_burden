@@ -1,4 +1,4 @@
-# Worldwide-Online-Diabetes-Observatory
+# Global diabetes burden
 
 Based on https://github.com/WDDS/Tweet-Diabetes-Classification 
 
