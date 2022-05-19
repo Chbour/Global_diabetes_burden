@@ -1,6 +1,6 @@
 # Global diabetes burden
 
-Based on https://github.com/WDDS/Tweet-Diabetes-Classification 
+Based mainly the work of Ahne, Adrian et al. “Insulin pricing and other major diabetes-related concerns in the USA: a study of 46 407 tweets between 2017 and 2019.” BMJ open diabetes research & care vol. 8,1 (2020): e001190. doi:10.1136/bmjdrc-2020-001190 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7282343/) and their GitHub https://github.com/WDDS/Tweet-Diabetes-Classification 
 
 Our objective was to identify the regional differences of diabetes burden at the global level from the perspective of people with diabetes (PWD) to support the development of targeted diabetes programs that integrate the most relevant determinants of diabetes burden at a local level.
 
