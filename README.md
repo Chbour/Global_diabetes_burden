@@ -6,7 +6,7 @@ Our objective was to identify the regional differences of diabetes burden at the
 
 Link to the original article: 
 
-Scripts can be found in Worldwide-Online-Diabetes-Observatory/jupyter_notebooks/
+Scripts can be found in Global_diabetes_burden/jupyter_notebooks/
 
 - Data collection : Script to collect Twitter data,
 - Translation : Script to translate non-English tweets to English,
